@@ -1,5 +1,3 @@
-// yaredmgmt@gmail.com
-
 package com.itsc.ioc;
 
 import java.sql.*;
