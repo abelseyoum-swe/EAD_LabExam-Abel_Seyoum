@@ -1,6 +1,6 @@
 # EAD Lab Exam
 ## Done by:
 <pre>
-Abel Seyoum
-ATE/8832/12
+Name:  Abel Seyoum
+ID No: ATE/8832/12
 </pre>
