@@ -1,6 +1,6 @@
 # EAD Lab Exam
 ## Done by:
-<p>
+<pre>
 Abel Seyoum
 ATE/8832/12
-</p>
+</pre>
